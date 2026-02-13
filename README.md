@@ -6,6 +6,10 @@
 
 > Modern Hebrew/Jewish calendar library for TypeScript — date conversion, holidays, and formatting in Hebrew. Zero dependencies.
 
+<p align="center">
+  <img src="assets/demo.gif" alt="hebrew-dates demo" width="600" />
+</p>
+
 ## Install
 
 ```bash
