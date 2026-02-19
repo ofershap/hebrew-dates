@@ -1,4 +1,4 @@
-# hebrew-dates
+# hebrew-dates — Hebrew/Jewish Calendar, Holidays & Date Conversion for TypeScript
 
 [![npm version](https://img.shields.io/npm/v/hebrew-dates.svg)](https://www.npmjs.com/package/hebrew-dates)
 [![npm downloads](https://img.shields.io/npm/dm/hebrew-dates.svg)](https://www.npmjs.com/package/hebrew-dates)
@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)](https://github.com/ofershap/hebrew-dates)
 
-Convert dates, look up holidays, and format in Hebrew — all typed, all tree-shakeable, no heavy calendar dependencies.
+Convert Gregorian to Hebrew dates, look up Jewish holidays, and format in Hebrew — all typed, tree-shakeable, zero dependencies.
 
 ```ts
 import { toHebrew, formatHebrew, getHoliday } from "hebrew-dates";
@@ -19,7 +19,7 @@ getHoliday(hDate); // { name: "Rosh Hashana", nameHe: "ראש השנה" }
 
 > Modern Hebrew/Jewish calendar library for TypeScript. Zero dependencies.
 
-![Demo](assets/demo.gif)
+![hebrew-dates demo — converting Gregorian dates to Hebrew calendar with holiday lookup](assets/demo.gif)
 
 ## Install
 
