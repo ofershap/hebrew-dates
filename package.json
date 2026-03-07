@@ -1,7 +1,7 @@
 {
   "name": "hebrew-dates",
   "version": "1.0.1",
-  "description": "Modern Hebrew/Jewish calendar library for TypeScript \u2014 holidays, date conversion, formatting in Hebrew",
+  "description": "Modern Hebrew/Jewish calendar library for TypeScript — holidays, date conversion, formatting in Hebrew",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
